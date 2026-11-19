@@ -1,0 +1,6 @@
+{
+  "name": "tmg Workspace",
+  "description": "A calm, focused workspace combining files, code editor, terminal, projects, artifacts, browser preview, and chat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
